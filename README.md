@@ -1,7 +1,7 @@
 # QR Code Component Mini-Project
 ![Desktop Solution Image to the QR code component coding challenge](./resources/images/showcase/desktop-showcase.png)
 
-This is my solution for the [Frontend Mentor QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)with the goal of replicating a QR code component using HTML & CSS, based off the provided [Mobile](./resources/images/design-reference/mobile-design.jpg) & [Desktop](./resources/images/design-reference/desktop-design.jpg) images.
+This is my solution for the [Frontend Mentor QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub) with the goal of replicating a QR code component using HTML & CSS, based off the provided [Mobile](./resources/images/design-reference/mobile-design.jpg) & [Desktop](./resources/images/design-reference/desktop-design.jpg) images.
 
 ## Live Preview: https://br33dl0v3.github.io/miniproject_qr-code-component/
 
